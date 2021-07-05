@@ -10,7 +10,7 @@ I recommand to use Keil µvision, it's definitely the best IDE for development o
 ### II. What it does...
 As I said, this pong is just a game between two bots. It generates a random start position for the ball and then bots try to kick the ball. 
 #### Bot algorithm
-Bot computes the exact trajectory of the ball. In order to avoid an infinite game, bots are 3 times slower than the ball. Even if the trajectory is well computed, bot may havn't enough time to reach the point. 
+Bot computes the exact trajectory of the ball. In order to avoid an infinite game, bots are 3 times slower than the ball. Even if the trajectory is well computed, bot may not have enough time to reach the point. 
 
 So movements of the ball is handled by timer 0 and movements of both players are handled by timer 1. 
 
