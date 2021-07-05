@@ -16,5 +16,5 @@ So movements of the ball is handled by timer 0 and movements of both players are
 
 ### III. Possible improvements
 - create a human playable version with touch-screen commands or buttons.
-- implement different level of bots by changing the speed of the bot. 
+- implement different levels of bots by changing the speed of the bot. 
 
