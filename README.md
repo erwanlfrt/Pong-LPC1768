@@ -2,7 +2,7 @@
 
 ## You won't find a better Pong for LPC1768 (you won't find any other Pong game for LPC1768)
 
-Who said that we cannot play on a LPC1768 microprocessor ? Okay this program is just a game between 2 bots but it's ten times more interesting to watch a game between two well-coded bots than a game between stupids humans. 
+Who said that we cannot play on a LPC1768 microprocessor ? Okay this program is just a game between 2 bots but it's ten times more interesting to watch a game between two well-coded bots than a game between stupid humans. 
 
 ### I. I wanna play !
 I recommand to use Keil µvision, it's definitely the best IDE for development on microprocessors. Open this project on Keil, compile and execute it. 
